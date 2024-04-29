@@ -1,0 +1,30 @@
+VMAC STATE CHECKER V1.2Github
+remove shortcut and list
+integrate into Github
+
+VMAC STATE CHECKER V1.1
+add shortcut and list
+
+VMAC STATE CHECKER V1.0
+us-az
+us-ca
+us-co
+us-ct
+us-fl
+us-ga
+us-ia
+us-in
+us-ky
+us-la
+us-me
+us-mo
+us-nh
+us-nj
+us-nv
+us-ny
+us-oh
+us-tn
+us-tx
+us-va
+us-wa
+us-wi
